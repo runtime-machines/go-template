@@ -18,14 +18,10 @@ jobs:
           fetch-depth: 0
 
       - name: Cache Go modules
-        uses: actions/cache@preview
+        uses: actions/cache@v3
         with:
           path: ~/go/pkg/mod
           key: ${{ runner.os }}-build-${{ hashFiles('**/go.sum') }}
-          restore-keys: |
-            ${{ runner.OS }}-build-${{ env.cache-name }}-
-            ${{ runner.OS }}-build-
-            ${{ runner.OS }}-  
 
       - uses: actions/setup-go@v3
         with:
