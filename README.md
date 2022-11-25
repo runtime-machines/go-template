@@ -47,7 +47,7 @@ It includes:
 1. Update the following files:
    - [CHANGELOG.md](CHANGELOG.md)
    - [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md)
-   - [LICENSE](LICENSE)
+   - [LICENSE](LICENSE) (when defined)
    - [README.md](README.md)
 
 ## Setup
