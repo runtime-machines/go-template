@@ -1,3 +1,3 @@
-module github.com/golang-templates/seed
+module github.com/runtime-machines/go-module
 
-go 1.18
+go 1.19

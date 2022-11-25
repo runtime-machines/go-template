@@ -1,13 +1,12 @@
 # Go Repository Template
 
 [![Keep a Changelog](https://img.shields.io/badge/changelog-Keep%20a%20Changelog-%23E05735)](CHANGELOG.md)
-[![GitHub Release](https://img.shields.io/github/v/release/golang-templates/seed)](https://github.com/golang-templates/seed/releases)
-[![Go Reference](https://pkg.go.dev/badge/github.com/golang-templates/seed.svg)](https://pkg.go.dev/github.com/golang-templates/seed)
-[![go.mod](https://img.shields.io/github/go-mod/go-version/golang-templates/seed)](go.mod)
-[![LICENSE](https://img.shields.io/github/license/golang-templates/seed)](LICENSE)
-[![Build Status](https://img.shields.io/github/workflow/status/golang-templates/seed/build)](https://github.com/golang-templates/seed/actions?query=workflow%3Abuild+branch%3Amain)
-[![Go Report Card](https://goreportcard.com/badge/github.com/golang-templates/seed)](https://goreportcard.com/report/github.com/golang-templates/seed)
-[![Codecov](https://codecov.io/gh/golang-templates/seed/branch/main/graph/badge.svg)](https://codecov.io/gh/golang-templates/seed)
+[![GitHub Release](https://img.shields.io/github/v/release/runtime-machines/go-template)](https://github.com/runtime-machines/go-template/releases)
+[![Go Reference](https://pkg.go.dev/badge/github.com/runtime-machines/go-template.svg)](https://pkg.go.dev/github.com/runtime-machines/go-template)
+[![go.mod](https://img.shields.io/github/go-mod/go-version/runtime-machines/go-template)](go.mod)
+[![LICENSE](https://img.shields.io/github/license/runtime-machines/go-template)](LICENSE)
+[![Build Status](https://img.shields.io/github/workflow/status/runtime-machines/go-template/build)](https://github.com/runtime-machines/go-template/actions?query=workflow%3Abuild+branch%3Amain)
+[![Go Report Card](https://goreportcard.com/badge/github.com/runtime-machines/go-template)](https://goreportcard.com/report/github.com/runtime-machines/go-template)
 
 ⭐ `Star` this repository if you find it valuable and worth maintaining.
 
@@ -43,8 +42,8 @@ It includes:
 1. Sign up on [Codecov](https://codecov.io/) and configure
    [Codecov GitHub Application](https://github.com/apps/codecov) for all repositories.
 1. Click the `Use this template` button (alt. clone or download this repository).
-1. Replace all occurrences of `golang-templates/seed` to `your_org/repo_name` in all files.
-1. Replace all occurrences of `seed` to `repo_name` in [Dockerfile](Dockerfile).
+1. Replace all occurrences of `runtime-machines/go-template` to `your_org/repo_name` in all files.
+1. Replace all occurrences of `go-template` to `repo_name` in [Dockerfile](Dockerfile).
 1. Update the following files:
    - [CHANGELOG.md](CHANGELOG.md)
    - [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md)

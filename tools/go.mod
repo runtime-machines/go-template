@@ -1,4 +1,4 @@
-module github.com/golang-templates/seed/build
+module github.com/runtime-machines/go-template/build
 
 go 1.18
 

@@ -4,8 +4,6 @@ linters-settings:
     statements: 50
   gocyclo:
     min-complexity: 15
-  goimports:
-    local-prefixes: github.com/golang-templates/seed
   govet:
     check-shadowing: true
   misspell:
