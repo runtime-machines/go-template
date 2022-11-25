@@ -7,6 +7,8 @@
 [![LICENSE](https://img.shields.io/github/license/runtime-machines/go-template)](LICENSE)
 [![Build Status](https://img.shields.io/github/workflow/status/runtime-machines/go-template/build)](https://github.com/runtime-machines/go-template/actions?query=workflow%3Abuild+branch%3Amain)
 [![Go Report Card](https://goreportcard.com/badge/github.com/runtime-machines/go-template)](https://goreportcard.com/report/github.com/runtime-machines/go-template)
+[![codecov](https://codecov.io/github/runtime-machines/go-template/branch/main/graph/badge.svg?token=53ZP6S49AW)](https://codecov.io/github/runtime-machines/go-template)
+
 badges to show in the main page
 
 ## Description and scope of the project
