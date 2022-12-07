@@ -44,7 +44,7 @@ It includes:
    [Codecov GitHub Application](https://github.com/apps/codecov) for all repositories.
 1. Click the `Use this template` button (alt. clone or download this repository).
 1. Replace all occurrences of `runtime-machines/go-template` to `your_org/repo_name` in all files.
-1. Replace all occurrences of `go-template` to `repo_name` in [Dockerfile](Dockerfile).
+1. Replace all occurrences of `go-template` to `repo_name` in [Dockerfile](Dockerfile) and other files.
 1. Update the following files:
    - [CHANGELOG.md](CHANGELOG.md)
    - [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md)
